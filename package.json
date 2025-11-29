@@ -1,0 +1,17 @@
+{
+  "name": "cs361g22-search",
+  "version": "1.0.0",
+  "description": "Search microservice for CS361 Group 22",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
